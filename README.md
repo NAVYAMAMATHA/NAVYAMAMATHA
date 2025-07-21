@@ -1,10 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dRpCFDfCC1WUAdE6SB74zA.gif)<h1 align="center">Hi 👋, I'm NAVYA MAMATHA BALAM</h1>
-<h3 align="center">A passionate Data Science and ML aspirant from India</h3>
+<h3 align="center">A passionate Frontend and ML aspirant from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and Frontend**
 
 - 📫 How to reach me **navyamamatha2004@gmail.com**
 
